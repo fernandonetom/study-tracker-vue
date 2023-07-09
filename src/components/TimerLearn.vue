@@ -42,7 +42,7 @@ export default {
     start() {
       this.intervalId = setInterval(() => {
         this.timeInSeconds += 1;
-      }, 10)
+      }, 1000)
     },
     stop() {
       clearInterval(this.intervalId)
