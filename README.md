@@ -1,7 +1,9 @@
-# learn-tracker-vue
+# study-tracker
 
-This template should help get you started developing with Vue 3 in Vite.
+Study Tracker is a simple and intuitive web application built with Vue.js that allows you to track your study time. It provides a timer feature to measure the time spent on each study session and maintains a list of completed study sessions for reference. With Study Tracker, you can effectively manage your study schedule and monitor your progress.
 
+# Demo
+[Study Tracker - Vercel](https://study-tracker-vue.vercel.app/)
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
